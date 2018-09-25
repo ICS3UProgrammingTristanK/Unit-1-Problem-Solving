@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\MovingCatTristanK\MovingCatTristanK\bin\Debug\MovingCatTristanK.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\MovingCatTristanK\MovingCatTristanK\bin\Debug\MovingCatTristanK.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\MovingCatTristanK\MovingCatTristanK\bin\Debug\MovingCatTristanK.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\MovingCatTristanK\MovingCatTristanK\obj\Debug\MovingCatTristanK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\MovingCatTristanK\MovingCatTristanK\obj\Debug\MovingCatTristanK.frmMovingCat.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\MovingCatTristanK\MovingCatTristanK\obj\Debug\MovingCatTristanK.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\MovingCatTristanK\MovingCatTristanK\obj\Debug\MovingCatTristanK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\MovingCatTristanK\MovingCatTristanK\obj\Debug\MovingCatTristanK.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\MovingCatTristanK\MovingCatTristanK\obj\Debug\MovingCatTristanK.pdb
