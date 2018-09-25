@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 1 (Problem Solving)\ChangeAandPTristanK\ChangeAandPTristanK\bin\Debug\ChangeAandPTristanK.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 1 (Problem Solving)\ChangeAandPTristanK\ChangeAandPTristanK\bin\Debug\ChangeAandPTristanK.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 1 (Problem Solving)\ChangeAandPTristanK\ChangeAandPTristanK\bin\Debug\ChangeAandPTristanK.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 1 (Problem Solving)\ChangeAandPTristanK\ChangeAandPTristanK\obj\Debug\ChangeAandPTristanK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 1 (Problem Solving)\ChangeAandPTristanK\ChangeAandPTristanK\obj\Debug\ChangeAandPTristanK.frmAreaAndPer.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 1 (Problem Solving)\ChangeAandPTristanK\ChangeAandPTristanK\obj\Debug\ChangeAandPTristanK.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 1 (Problem Solving)\ChangeAandPTristanK\ChangeAandPTristanK\obj\Debug\ChangeAandPTristanK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 1 (Problem Solving)\ChangeAandPTristanK\ChangeAandPTristanK\obj\Debug\ChangeAandPTristanK.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 1 (Problem Solving)\ChangeAandPTristanK\ChangeAandPTristanK\obj\Debug\ChangeAandPTristanK.pdb
