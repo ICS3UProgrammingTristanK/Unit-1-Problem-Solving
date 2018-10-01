@@ -33,6 +33,8 @@
             this.txtWidth = new System.Windows.Forms.TextBox();
             this.txtLength = new System.Windows.Forms.TextBox();
             this.btnCalculate = new System.Windows.Forms.Button();
+            this.lblAreaAnswer = new System.Windows.Forms.Label();
+            this.lblPerimeter = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblLength
@@ -79,12 +81,35 @@
             this.btnCalculate.TabIndex = 4;
             this.btnCalculate.Text = "Calculate";
             this.btnCalculate.UseVisualStyleBackColor = true;
+            this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
+            // 
+            // lblAreaAnswer
+            // 
+            this.lblAreaAnswer.AutoSize = true;
+            this.lblAreaAnswer.Font = new System.Drawing.Font("Impact", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAreaAnswer.Location = new System.Drawing.Point(14, 262);
+            this.lblAreaAnswer.Name = "lblAreaAnswer";
+            this.lblAreaAnswer.Size = new System.Drawing.Size(112, 26);
+            this.lblAreaAnswer.TabIndex = 5;
+            this.lblAreaAnswer.Text = "The area is:";
+            // 
+            // lblPerimeter
+            // 
+            this.lblPerimeter.AutoSize = true;
+            this.lblPerimeter.Font = new System.Drawing.Font("Impact", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPerimeter.Location = new System.Drawing.Point(12, 347);
+            this.lblPerimeter.Name = "lblPerimeter";
+            this.lblPerimeter.Size = new System.Drawing.Size(157, 26);
+            this.lblPerimeter.TabIndex = 6;
+            this.lblPerimeter.Text = "The perimeter is:";
             // 
             // frmAreaAndPer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(560, 335);
+            this.ClientSize = new System.Drawing.Size(669, 430);
+            this.Controls.Add(this.lblPerimeter);
+            this.Controls.Add(this.lblAreaAnswer);
             this.Controls.Add(this.btnCalculate);
             this.Controls.Add(this.txtLength);
             this.Controls.Add(this.txtWidth);
@@ -104,6 +129,8 @@
         private System.Windows.Forms.TextBox txtWidth;
         private System.Windows.Forms.TextBox txtLength;
         private System.Windows.Forms.Button btnCalculate;
+        private System.Windows.Forms.Label lblAreaAnswer;
+        private System.Windows.Forms.Label lblPerimeter;
     }
 }
 
