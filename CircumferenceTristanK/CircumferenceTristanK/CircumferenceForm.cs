@@ -28,7 +28,7 @@ namespace CircumferenceTristanK
 
         private void btnCalculate_Click(object sender, EventArgs e)
         {
-
+            double radius, 
         }
     }
 }
